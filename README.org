@@ -1,0 +1,8 @@
+#+title: Hackerspaces - a Cataclysm: Dark Days Ahead mod.
+#+startup: hidestars
+
+Just starting to work on it. If I don't get bored with it before, I will publish a more detailed description here.
+
+The general idea is to add locations and interesting items related to DYI and hackerspace culture, and to expand
+the use of DIY radio tech in the game.
+
