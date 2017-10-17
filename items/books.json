@@ -1,0 +1,78 @@
+[
+  {
+    "id": "hs_book_howto_sdr",
+    "type": "BOOK",
+    "name": "Ultimate SDR Guide",
+    "name_plural": "Ultimate SDR Guide",
+    "description": "A book on constructing and working with software-defined radios.",
+    "weight": 462,
+    "volume": 3,
+    "price": 6000,
+    "material": [ "paper" ],
+    "symbol": "?",
+    "color": "lt_green",
+    "skill": "electronics",
+    "required_level": 2,
+    "max_level": 3,
+    "intelligence": 7,
+    "time": 20,
+    "fun": -1
+  },
+
+  {
+    "id": "hs_book_mag_made",
+    "type": "BOOK",
+    "name": "Made It Myself! Magazine",
+    "name_plural": "Made It Myself! Magazine",
+    "description": "An illustrated magazine full of various DIY projects.",
+    "weight": 55,
+    "volume": 2,
+    "price": 600,
+    "material": [ "paper" ],
+    "symbol": "?",
+    "color": "pink",
+    "skill": "fabrication",
+    "required_level": 1,
+    "max_level": 3,
+    "intelligence": 5,
+    "time": 8,
+    "fun": -1
+  },
+
+  {
+    "id": "hs_book_making_drones",
+    "type": "BOOK",
+    "name": "Making: Drones",
+    "name_plural": "Making: Drones",
+    "description": "A short book on building remote-controlled vehicles of all kinds, full of helpful diagrams and illustrations.",
+    "weight": 462,
+    "volume": 3,
+    "price": 6500,
+    "material": [ "paper" ],
+    "symbol": "?",
+    "color": "lt_green",
+    "skill": "electronics",
+    "required_level": 3,
+    "max_level": 5,
+    "intelligence": 8,
+    "time": 25,
+    "fun": -1
+  },
+
+  {
+    "id": "hs_book_novel_hard_scifi",
+    "type": "BOOK",
+    "name": "hard scifi novel",
+    "description": "Space ships following laws of physics. Popular among people who are more into science than fiction.",
+    "weight": 227,
+    "volume": 3,
+    "price": 850,
+    "material": [ "paper" ],
+    "symbol": "?",
+    "color": "light_blue",
+    "intelligence": 9,
+    "time": 25,
+    "chapters": 24,
+    "fun": 3
+  }
+]

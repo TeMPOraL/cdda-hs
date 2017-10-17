@@ -1,0 +1,26 @@
+[
+    {
+        "type" : "COMESTIBLE",
+        "id" : "hs_drink_club_mate",
+        "name" : "club-mate",
+        "name_plural" : "club-mate",
+        "weight" : 50,
+        "color" : "yellow",
+        "addiction_type" : "caffeine",
+        "use_action" : "CAFF",
+        "stim" : 8,
+        "container" : "bottle_glass",
+        "comestible_type" : "DRINK",
+        "symbol" : "~",
+        "quench" : 20,
+        "addiction_potential" : 1,
+        "nutrition" : 3,
+        "description" : "Caffeinated, carbonated mate extract. A cultural drink of hackerspaces worldwide. Tastes like cigarette butts.",
+        "price" : 400,
+        "material" : "junk",
+        "volume" : 1,
+        "phase" : "liquid",
+        "flags" : [ "EATEN_COLD" ],
+        "fun" : 1
+    }
+]
