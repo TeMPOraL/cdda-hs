@@ -15,7 +15,7 @@
         "quench" : 20,
         "addiction_potential" : 1,
         "nutrition" : 3,
-        "description" : "Caffeinated, carbonated mate extract. A cultural drink of hackerspaces worldwide. Tastes like cigarette butts.",
+        "description" : "Caffeinated, carbonated mate extract.  A cultural drink of hackerspaces worldwide.  Tastes like cigarette butts.",
         "price" : 400,
         "material" : "junk",
         "volume" : 1,
