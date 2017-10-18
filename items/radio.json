@@ -15,8 +15,7 @@
     "color": "light_gray",
     "ammo": "battery",
     "initial_charges": 100,
-    "max_charges": 100,
-    "use_action": "IUSE_LUA_HS_SDR_ON"
+    "max_charges": 100
   },
     
   {
@@ -38,7 +37,6 @@
     "max_charges": 100,
     "turns_per_charge": 8,
     "revert_to": "hs_tool_sdr",
-    "use_action": "IUSE_LUA_HS_SDR_OFF",
     "flags": [ "TRADER_AVOID" ]
   }
 ]
