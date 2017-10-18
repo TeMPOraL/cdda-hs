@@ -1,3 +1,5 @@
+-- FIXME consider registering a mod through mods[] array and possibly defining functions on it
+
 function iuse_hs_sdr_on(item, active)
    -- TODO
    -- currently just debugging
