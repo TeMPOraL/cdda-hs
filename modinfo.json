@@ -5,8 +5,8 @@
     "name": "Hackerspaces Mod",
     "authors": [ "TeMPOraL" ],
     "maintainers": [ "TeMPOraL" ],
-    "description": "Adds hackerspace locations, expands use of DIY radio tech, and provides more of hacky DIY stuff to play with.",
-    "category": "content",
+    "description": "Adds hackerspaces, expands use of DIY radio tech, and provides more DIY stuff.",
+    "category": "misc_additions",
     "dependencies": [ "dda" ]
   }
 ]
