@@ -1,13 +1,13 @@
 [
     {
         "type" : "item_action",
-        "id" : "IUSE_HS_SDR_ON",
+        "id" : "IUSE_LUA_HS_SDR_ON",
         "name" : "Turn the SDR on"
     },
 
     {
         "type" : "item_action",
-        "id" : "IUSE_HS_SDR_OFF",
+        "id" : "IUSE_LUA_HS_SDR_OFF",
         "name" : "Turn the SDR off"
     }
 ]
