@@ -60,6 +60,25 @@
   },
 
   {
+    "id": "hs_book_mag_nerfguns",
+    "type": "BOOK",
+    "name": "Practical Nerf Guns",
+    "name_plural": "Nerf'd Ultimate",
+    "description": "A magazine featuring reviews and tips on using toy guns shooting foam darts. The advice seems somewhat applicable to real weapons too.",
+    "weight": 60,
+    "volume": 1,
+    "price": 680,
+    "material": [ "paper" ],
+    "symbol": "?",
+    "color": "pink",
+    "skill": "gun",
+    "max_level": 1,
+    "intelligence": 2,
+    "time": 8,
+    "fun": 2
+  },
+
+  {
     "id": "hs_book_novel_hard_scifi",
     "type": "BOOK",
     "name": "hard scifi novel",
